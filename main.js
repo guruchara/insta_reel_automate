@@ -1,4 +1,6 @@
 /**
+ * NOTE: Use this on the your risk please don't use personal insta account 
+ * 
  * Guru @2025 
  * Instagram Reels Extractor
  * 
